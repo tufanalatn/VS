@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication2_TENSOR", "PythonApplication2_TENSOR\PythonApplication2_TENSOR.pyproj", "{B1FDE417-7D47-4506-8D08-83BC5D326190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1FDE417-7D47-4506-8D08-83BC5D326190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FDE417-7D47-4506-8D08-83BC5D326190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA0DED3D-7D1F-4753-9023-C2C35CE32E9D}
+	EndGlobalSection
+EndGlobal
